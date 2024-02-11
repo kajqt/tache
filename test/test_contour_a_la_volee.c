@@ -1,9 +1,9 @@
 #include <stdio.h>
-#include <struct_liste.h>
-#include <geom2d.h>
-#include <image.h>
-#include <contour.h>
-#include <types_macros.h>
+#include "../includes/struct_liste.h"
+#include "../includes/geom2d.h"
+#include "../includes/image.h"
+#include "../includes/contour.h"
+#include "../includes/types_macros.h"
 
 
 int main(int argc, char* argv[])

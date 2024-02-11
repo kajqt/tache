@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-#include <struct_liste.h>
+#include "struct_liste.h"
 #include <geom2d.h>
 #include <image.h>
 #include <contour.h>

@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include "struct_liste.h"
-#include "geom2d.h"
+#include "../includes/struct_liste.h"
+#include "../includes/geom2d.h"
 
 int main()
 {
